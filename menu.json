@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Breakfast Sandwich",
+        "description": "soft scrambled eggs, cheddar cheese, and arugula on ciabatta",
+        "price": 9.95
+      },
+      {
+        "name": "B+B",
+        "description": "soft scrambled eggs, burger’s smokehouse bacon, cheddar cheese, and arugula on ciabatta",
+        "price": 11.95
+      },
+      {
+        "name": "B+C",
+        "description": "soft scrambled eggs, house-made chorizo, cheddar cheese, and salsa verde on ciabatta",
+        "price": 11.95
+      },
+      {
+        "name": "PORK ROLL",
+        "description": "soft scrambled eggs, taylor ham, and american cheese on a white bun",
+        "price": 11.95
+      },
+      {
+        "name": "MR. VICTOR",
+        "description": "soft scrambled eggs, edward’s hickory smoked sausage, cheddar cheese, and arugula on ciabatta",
+        "price": 11.95
+      },
+      {
+        "name": "OLLIEFLOWER",
+        "description": "roasted cauliflower, provolone, broccoli rabe, crystal hot honey, and mayo on a seeded hero",
+        "price": 16
+      },
+      {
+        "name": "OLLIE",
+        "description": "roasted cauliflower, provolone, broccoli rabe, crystal hot honey, and mayo on a seeded hero",
+        "price": 17.5
+      },
+      {
+        "name": "UNCLE CHUCKY",
+        "description": "roasted cauliflower, pickled fennel, ajvar, sumac vinaigrette, arugula, and white onion on a seeded hero",
+        "price": 16
+      },
+      {
+        "name": "UNCLE GRANDPA",
+        "description": "roast turkey breast, pickled fennel, ajvar, sumac vinaigrette, arugula, and white onion on a seeded hero",
+        "price": 17.5
+      },
+      {
+        "name": "FLIP FLOP",
+        "description": "pepperoni, heritage ham, pepperjack cheese, pickled jalapeño, pepperoncini, duke's mayo, red wine vinaigrette, and shredded iceberg lettuce on a seeded hero",
+        "price": 17.5
+      },
+      {
+        "name": "VEGLOAF CLASSIC",
+        "description": "csg mushroom + black bean patty, vegan american cheese, full sour pickles, vegan comeback sauce, white onion, and romaine on a white bun",
+        "price": 16
+      },
+      {
+        "name": "REUBEN BROCC",
+        "description": "roasted broccoli, swiss, sauerkraut, and comeback sauce on orwasher’s rye bread",
+        "price": 16 
+      },
+      {
+        "name": "REUBEN",
+        "description": "corned beef or turkey, swiss, sauerkraut, and comeback sauce on orwasher’s rye bread",
+        "price": 17.5
+      },
+      {
+        "name": "VEGITALIAN",
+        "description": "roasted sweet potato, swiss, mozzarella, pecorino, csg hoagie spread, arugula, white onion, and mayo on a seeded hero",
+        "price": 16
+      },
+      {
+        "name": "ITALIAN COMBO",
+        "description": "mortadella, soppressata, swiss, mozzarella, pecorino, csg hoagie spread, arugula, white onion, and mayo on a seeded hero",
+        "price": 17.5
+      },
+      {
+        "name": "AMERICAN COMBO",
+        "description": "turkey breast, heritage ham, american cheese, coleslaw, sweet pickles, and comeback sauce on a seeded hero",
+        "price": 17.5
+      },
+      {
+        "name": "DROOPY",
+        "description": "roast beef, french's fried onions, horseradish mayo, and arugula on a seeded hero",
+        "price": 17.5
+      },
+      {
+        "name": "THE JAWN",
+        "description": "roast beef, swiss, mozzarella, pecorino romano, csg hoagie spread, red wine vinaigrette, mayo, onions, and romaine on a seeded hero",
+        "price": 17.5
+      },
+      {
+        "name": "VEG-DELITE",
+        "description": "roasted cauliflower, swiss, coleslaw, full sour pickles, and comeback sauce on orwasher’s rye bread",
+        "price": 16
+      },
+      {
+        "name": "DELIGHT",
+        "description": "corned beef or turkey, swiss, coleslaw, full sour pickles, and comeback sauce on orwasher’s rye bread",
+        "price": 17.5
+      },
+      {
+        "name": "ANCHOVY SANDWICH",
+        "description": "oil-packed anchovy, caper butter, lemon juice, radish, arugula, and romaine lettuce on sullivan street stecca",
+        "price": 16
+      },
+      {
+        "name": "TUNABERRY",
+        "description": "tuna salad, cranberry apple sauce, horseradish mayo, white onion, and arugula on sullivan street stecca",
+        "price": 17.5
+      },
+      {
+        "name": "SALMON SANDWICH",
+        "description": "cold smoked salmon, horseradish mayo, lemon juice, potato chips, capers, pickled onions, and arugula on sullivan street stecca",
+        "price": 17.5
+      },
+      {
+        "name": "CLEAN TURKEY",
+        "description": "turkey breast, sweet pickles, duke’s mayo, red wine vinaigrette, white onion, and arugula on a seeded hero",
+        "price": 17.5
+      },
+      {
+        "name": "HAM & CHEESE",
+        "description": "heritage ham, cheddar cheese, pickle mayo, and romaine lettuce on a seeded hero",
+        "price": 17.5
+      },
+      {
+        "name": "YASHA",
+        "description": "tuna, green goddess, pickled red onion, radish and arugula on sullivan street stecca",
+        "price": 17.5
+      },
+      {
+        "name": "CUBANO",
+        "description": "confit pork shoulder, heritage ham, swiss, sour pickles, mayo, and yellow mustard on sullivan street stecca",
+        "price": 17.5
+      },
+      {
+        "name": "MACHO (WO)MAN",
+        "description": "confit pork shoulder, cheddar, coleslaw, pickled jalapeños, and catskill sauce on garlic-toasted ciabatta",
+        "price": 17.5
+      },
+      {
+        "name": "ULTIMATE WARRIOR",
+        "description": "confit pork shoulder, broccoli rabe, provolone, pecorino, mama Lil's pickled red peppers, and mayo on a seeded hero",
+        "price": 17.5
+      },
+      {
+        "name": "CATSKILL ROAST PORK",
+        "description": "confit pork shoulder, catskill sauce, and spicy mustard on a garlic ciabatta",
+        "price": 16
+      }
+]
